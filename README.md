@@ -1,3 +1,3 @@
-# Hotel-Feedback-Form
+# Survey-Form
 
 ![alt text](image.png)
